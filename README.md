@@ -13,4 +13,4 @@ This paper explores how requirement engineering practices adapt within Agile met
 - Improved Requirement Clarity and Adaptability
 
 ## 🔗 Full Paper
-[Click here to view the paper][(https://raw.githubusercontent.com/Minnush/requirement-engineering-agile-incremental-approach/blob/main/The%20Role%20of%20Requirement%20Engineering%20in%20Agile%20Development%20Process-An%20Incremental%20Approach.pdf)]
+[Click here to view the paper][[(https://raw.githubusercontent.com/Minnush/requirement-engineering-agile-incremental-approach/blob/main/The%20Role%20of%20Requirement%20Engineering%20in%20Agile%20Development%20Process-An%20Incremental%20Approach.pdf)](https://github.com/Minnush/requirement-engineering-agile-incremental-approach/blob/main/The%20Role%20of%20Requirement%20Engineering%20in%20Agile%20Development%20Process-An%20Incremental%20Approach.pdf)]
